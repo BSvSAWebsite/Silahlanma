@@ -38,7 +38,7 @@ const Details = () => {
 
         <div className="m-auto h-fit w-full flex flex-col items-center text-center">
             <div className="w-full max-w-[780px] text-start">
-              <Link to="/" className="underline">Geri dön</Link>
+              <Link to="/Silahlanma" className="underline">Geri dön</Link>
             </div>
             <p className="text-lg underline-offset-2 pb-2 md:text-3xl md:underline-offset-[5px] md:pb-5 underline">
               Yasalar
